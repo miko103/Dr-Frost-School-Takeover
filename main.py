@@ -49,7 +49,7 @@ def create_active_child(target_sid, cid, phpsessid):
 
 
 phpsessid = "" #enter phpsessid of the "controller" parent account
-cid = 342062 # enter class ID from the "controller" parent account (found in url)
+cid = 0 # enter class ID from the "controller" parent account (found in url)
 
 
 print("""
